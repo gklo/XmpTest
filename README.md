@@ -1,6 +1,8 @@
 # XmpTest
 The Android Studio project file with XMPToolkit integrated (Experimental)
 
+It is based on hello-jni sample in NDK
+
 ##Issues
 - takes 5 mins or more to compile. Not very long but could be very annoying.
 - compile fails sometime randomly because of multiple definitions of certain object/variable
