@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rickdom/Downloads/xmptest/app/src/androidTest/res"/><source path="/home/rickdom/Downloads/xmptest/app/build/generated/res/rs/test/arm/debug"/><source path="/home/rickdom/Downloads/xmptest/app/build/generated/res/generated/test/arm/debug"/></dataSet><dataSet config="androidTestArm"><source path="/home/rickdom/Downloads/xmptest/app/src/androidTestArm/res"/></dataSet><mergedItems/></merger>

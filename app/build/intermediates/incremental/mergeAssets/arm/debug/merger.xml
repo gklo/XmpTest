@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rickdom/Downloads/xmptest/app/src/main/assets"/></dataSet><dataSet config="arm"><source path="/home/rickdom/Downloads/xmptest/app/src/arm/assets"/></dataSet><dataSet config="debug"><source path="/home/rickdom/Downloads/xmptest/app/src/debug/assets"/></dataSet><dataSet config="armDebug"><source path="/home/rickdom/Downloads/xmptest/app/src/armDebug/assets"/></dataSet></merger>
